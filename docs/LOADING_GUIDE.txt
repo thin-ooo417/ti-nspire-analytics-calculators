@@ -1,0 +1,123 @@
+TI-NSPIRE STATISTICS AND ANALYTICS CALCULATORS
+How to put them on your calculator
+======================================================================
+
+This download holds 16 calculator sheets:
+
+  analytics/   16 sheets, 01 to 16
+  README.txt   this file
+
+They have been tested on a computer but not yet on a calculator.
+Check one sheet (step 6) before relying on the rest.
+
+
+YOU NEED
+----------------------------------------------------------------------
+
+- A TI-Nspire CX or CX CAS calculator and its USB cable.
+- TI-Nspire Computer Link Software on a Windows or Mac computer. It
+  is free from education.ti.com: search the site for "Computer Link".
+- This download unzipped, for example to your Desktop.
+
+
+STEPS
+----------------------------------------------------------------------
+
+1. Turn the calculator on and plug it into the computer.
+
+2. Open TI-Nspire Computer Link Software.
+
+3. In the Select Handheld window, click your calculator, then
+   Select. Not listed? Push the cable in fully and click Refresh.
+
+4. You now see two panes:
+     top pane      your computer   (Computer File Browser)
+     bottom pane   the calculator  (TI-Nspire File Browser)
+
+5. In the top pane, go to where you unzipped this download. Drag
+   the folder "analytics" into the bottom pane.
+
+   Drag only that folder, not this README.txt. Computer Link only
+   copies calculator files and cancels the whole copy if you include
+   anything else.
+
+6. Check it worked. On the calculator press [home], open My
+   Documents, then analytics, then the sheet below. Press the keys
+   shown and compare the result. Words in square brackets are keys
+   to press; the rest are numbers to type.
+
+  05_Sample_Size
+      press:   15  [enter]  2
+      shows:   n REQUIRED  217
+
+One more, for a sheet with a different layout:
+
+  04_Confidence_Interval_T
+      press:   50  [enter]  10  [enter]  10
+      shows:   t critical  2.26216
+
+If the results match, you are done.
+
+
+USING A SHEET
+----------------------------------------------------------------------
+
+- The arrow keys, [enter] and [tab] move between fields. On
+  two-column sheets, [left] and [right] move across.
+- Type with the number keys and the decimal point. The (-) key
+  switches the sign.
+- Type probabilities and confidence levels as decimals: 0.95.
+- Some fields start with a default, such as 1.96. The first key
+  you press replaces it.
+- [backspace] deletes a character. [esc] puts every field back
+  to its default.
+- Sheets 12 and 16 are grids: the arrow keys move between cells,
+  and [esc] empties the whole grid.
+- Orange rows are warnings or input checks.
+
+If the calculator asks to save changes when you close a sheet,
+either answer is fine.
+
+
+IF SOMETHING GOES WRONG
+----------------------------------------------------------------------
+
+The calculator is not in the Select Handheld list
+    Turn it on, push the cable in fully at both ends and click
+    Refresh. Then try another USB port.
+
+Computer Link says a file is not supported and copies nothing
+    You included README.txt. Drag only the "analytics" folder.
+
+A sheet will not open
+    Copy that file again in case the copy was cut short. If it still
+    fails, report it with the sheet name.
+
+The result does not match the check
+    Make sure you pressed the keys exactly as shown. If it still does
+    not match, report it with the sheet name and what you saw.
+
+Nothing appears under the fields
+    The sheet needs more inputs.
+
+
+NEWER VERSIONS
+----------------------------------------------------------------------
+
+Copy the new folder in the same way. When Computer Link asks whether
+to replace a file with the same name, answer yes.
+
+
+CX II CALCULATORS
+----------------------------------------------------------------------
+
+Computer Link does not work with CX II models. TI's help says they
+need version 5.0 or later of the TI-Nspire computer software, such
+as the Student Software. These sheets have not been tried on a CX II.
+
+
+----------------------------------------------------------------------
+The copy steps follow Texas Instruments' Knowledge Base solution
+35774 and the guidebook "Using the TI-Nspire Computer Link Software".
+TI-Nspire is a trademark of Texas Instruments. This project is not
+affiliated with or endorsed by Texas Instruments.
